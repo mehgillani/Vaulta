@@ -1,0 +1,6 @@
+{
+  "name": "Vaulta — Invest. Grow. Repeat.",
+  "description": "Vaulta is a modern digital investment platform designed to help users manage investments, track performance and access a simple financial experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
